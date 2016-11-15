@@ -2,7 +2,7 @@
  *
  * Created by: Perry Martin
  * Created on: Nov. 2016
- * Creates an hour glass like shap
+ * Creates an hour glass like shape
  *     
  *
  ****************************************************************************/
